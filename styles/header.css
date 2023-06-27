@@ -3,6 +3,7 @@
     height: 24px;
     background-image: url("../img/Menu.svg");
     display: inline-block;
+    background-repeat: no-repeat;
 }
 .cabecalho{
     background-color:var(--branco) ;
