@@ -41,6 +41,11 @@
     font-weight: bold;
 }   
 
+.lista-menu__link{
+    color: var(--roxo);
+    text-transform: uppercase;
+}
+
 .container__botao{
     display: none;
 }
