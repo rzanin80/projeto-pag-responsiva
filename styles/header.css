@@ -36,7 +36,7 @@
         background-color: var(--branco);
     }
 
-.container__botao:{
+.container__botao{
     display: none;
 }
 .container__botao:checked~.lista-menu{
