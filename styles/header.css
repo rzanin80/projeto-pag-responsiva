@@ -31,6 +31,6 @@
     background-color: var(--branco);
     width: 50vw;
 }
-.container_botao:checked-.lista-menu{
+.container__botao:checked-.lista-menu{
     display: block;
 }
