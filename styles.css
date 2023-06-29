@@ -5,6 +5,7 @@
     --branco:#FFFFFF;
     --amarelo:#FECD2F;   
     --roxo:#994984;
+    --fonte-principal:"Poppins"
 }
 body{
     background-color: var(--cor-de-fundo);
