@@ -44,6 +44,7 @@
 .lista-menu__link{
     color: var(--roxo);
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .container__botao{
