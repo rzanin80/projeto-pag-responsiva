@@ -27,7 +27,7 @@
 .lista-menu{
     display: none;
     position: absolute;
-    top: 50%;
+    top: 100%;
     background-color: var(--branco);
     width: 50vw;
 }
