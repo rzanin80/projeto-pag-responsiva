@@ -38,6 +38,7 @@
 
 .lista-menu__titulo{
     color: var(--amarelo);
+    font-weight: bold;
 }   
 
 .container__botao{
