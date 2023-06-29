@@ -36,6 +36,10 @@
         background-color: var(--branco);
     }
 
+.lista-menu__titulo{
+    color: var(--amarelo);
+}   
+
 .container__botao{
     display: none;
 }
