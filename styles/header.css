@@ -32,5 +32,5 @@
     width: 50vw;
 }
 .container__botao:checked-.lista-menu{
-    display: block;
+    display: none;
 }
