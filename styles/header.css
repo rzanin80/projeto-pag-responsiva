@@ -39,8 +39,8 @@
 
 .lista-menu__titulo{
     color: var(--amarelo);
-    font-weight: bold;
-    width: 700;
+    font-weight: 700;
+    
 }   
 
 .lista-menu__link{
