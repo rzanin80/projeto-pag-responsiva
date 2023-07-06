@@ -1,27 +1,2 @@
-.banner{
-    background-color: var(--roxo);
-    color: var(--branco);
-    text-align: center;
-    padding: 2.5em 2em;
-}
-
-.banner__titulo{
-    font-size: 18px;
-    font-weight: 700;
-}
-
-.banner__texto{
-    font-size:500 ;
-    margin: 1em;
-}
-
-
-.banner__pesquisa{
-background-color: transparent;  
-color: var(--branco);
-width: 75vw ;
-
-}
-
 
 
